@@ -1,4 +1,4 @@
-# Degen Scraper
+X# Degen Scraper
 
 Pipeline for generating AI character files and training datasets by scraping public figures' online presence across Twitter and blogs.
 
